@@ -1,0 +1,7 @@
+print("Nama:Muhammad kumara zaky")
+print("NIM:2605060044")
+print("TTL:Wonosobo,2007")
+print("JK:Laki-laki")
+print("Hobi:menonton film dan bermain game")
+print("\n Selamat datang di Lab Teknologi Informasi")
+print("\n Universitass Tidar")
