@@ -1,0 +1,20 @@
+print(f"Nama  : Muhammad kumaraz zaky")
+print(f"Umur  : 19")
+print(f"Berat : 80.2 kg")
+angka_string = "123"
+angka_float = 45.67
+angka_integer = 89
+hasil_1 = int(angka_string)
+hasil_2 = int(angka_float)
+hasil_3 = float(angka_integer)
+hasil_4 = str(angka_integer)
+print(f"Hasil 1: {hasil_1}, type: {type(hasil_1)}")
+print(f"Hasil 2: {hasil_2}, type: {type(hasil_2)}")
+print(f"Hasil 3: {hasil_3}, type: {type(hasil_3)}")
+print(f"Hasil 4: {hasil_4}, type: {type(hasil_4)}")
+usia = int(input("Masukkan usia Anda (integer): "))
+tinggi_badan = float(input("Masukkan tinggi badan Anda (float): "))
+nama = input("Masukkan nama Anda (string): ")
+print(f"Usia Anda: {usia}, type: {type(usia)}")
+print(f"Tinggi badan Anda: {tinggi_badan}, type: {type(tinggi_badan)}")
+print(f"Nama Anda: {nama}, type: {type(nama)}")
